@@ -31,6 +31,23 @@ Guarde a escada.
 ```
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
+```
+- Abrir porta-malas 
+- Pegar o macaco
+-Colocar o macaco no chão 
+-Pegar chave de roda 
+-Desparafusar as porcas parcialmente 
+-Colocar o macaco embaixo do carro
+-Levantar macaco
+-Desparafusar roda, soltando todas as porcas
+-Tirar o pneu da roda 
+-Colocar o estepe
+-Colocar as porcas no pneu
+-Apertar bem forte todas as porcas 
+-Baixar o macaco
+-Tirar o macaco
+-Guardar o pneu substituído
+```
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
