@@ -106,6 +106,17 @@ escrever soma
 ```
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
+```
+Declarar variável 
+Inteiro a 
+Início
+Escrever “informe um número”
+Ler a
+Se a/2 restar 0 
+Escrever “Esse número é par”
+Se não 
+Escrever “esse número é ímpar”
+```
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 
