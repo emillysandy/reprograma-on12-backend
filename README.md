@@ -50,7 +50,19 @@ Guarde a escada.
 ```
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+```
 
+ir até o caixa eletrônico escolhido 
+	insiro cartão e senha
+	retiro o cartão  
+	espero processamento
+	vou a opção de débito 
+	informar o valor desejado 
+	inserir senha 
+	aguardo contagem de notas
+	retiro notas da saída 
+	encerro a operação
+```
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
