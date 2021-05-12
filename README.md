@@ -76,6 +76,19 @@ Pegue a próxima prova
 ```
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+```
+coloque uma quantidade X de pessoas ombro a ombro 
+	random palavra "vivo" ou "morto"
+		enquanto vivo true
+			pessoas devem ficar em pé
+			senao 
+				pessoa se retira da brincadeira 
+		enquanto morto true
+			pessoas devem ficar agachada
+			senao 
+				pessoa se retira da brincadeira 
+	repita o random até que sobre apenas uma pessoa 
+```
 
 7. Faça um algoritmo que some três números.
 
