@@ -119,5 +119,19 @@ Escrever “esse número é ímpar”
 ```
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+```
+Declarar variável 
+Inteiro nota 1, nota 2, média
+Início
+Escrever “Digite a primeira nota”
+Ler nota 1
+Escrever “Digite a segunda nota”
+Ler nota 2
+Média = (nota 1 + nota 2)/2
+Se média >= 7
+Escrever “aluno aprovado”
+Se não 
+Escrever “aluno reprovado”
 
+```
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
