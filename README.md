@@ -135,3 +135,14 @@ Escrever “aluno reprovado”
 
 ```
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+```
+Declarar variáveis
+Inteiro salario, salarioAtual
+Escrever “Digite aqui o valor do salário do funcionário”
+Ler s 
+Se s <= 500
+salarioAtual = (salario*20%)+salario
+ se não 
+salarioAtual = (salario*10%)+salario
+
+```
