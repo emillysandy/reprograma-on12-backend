@@ -91,6 +91,19 @@ coloque uma quantidade X de pessoas ombro a ombro
 ```
 
 7. Faça um algoritmo que some três números.
+```
+declara as variáveis
+inteiro n1, n2, n3, soma
+início
+escrever "informe o primeiro número"
+ler n1
+escrever "informe o segundo número"
+ler n2
+escrever "informe o terceiro número"
+ler n3
+soma = n1 + n2 + n3 
+escrever soma
+```
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
