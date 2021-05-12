@@ -64,6 +64,16 @@ ir até o caixa eletrônico escolhido
 	encerro a operação
 ```
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+```
+Pegue uma prova
+Corrija a primeira questão 
+Corrija a segunda questão 
+Corrija a terceira questão 
+Corrija a quarta questão
+Corrija a quinta questão 
+Coloque a nota final na prova
+Pegue a próxima prova
+```
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
