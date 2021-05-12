@@ -17,6 +17,18 @@ Guarde a escada.
 ```
 
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
+```
+-Pegar a bucha 
+-Colocar detergente
+-Abrir torneira
+-Molhar bucha
+-Pegar o prato
+-Esfregar o prato
+-Abrir a torneira 
+-Enxaguar o prato
+-Colocar o prato no escorredor
+-Fechar a torneira
+```
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
